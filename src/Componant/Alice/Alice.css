@@ -1,0 +1,9 @@
+#notice{
+    color:#00a0b6;
+    border-bottom: 1px solid #00a0b6;
+}
+.body{
+    background-color: white;
+    padding: 20px;
+    box-shadow: 5px 5px 10px gray;
+}

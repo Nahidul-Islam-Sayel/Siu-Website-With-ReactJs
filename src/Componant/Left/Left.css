@@ -1,0 +1,16 @@
+ul,li{
+    list-style: none;
+}
+.li{
+    padding: 20px;
+    border: 1px solid black;
+    width: 100%;
+}
+.li:hover{
+   background-color: #00a0b6;
+   color: white;
+}
+.lii{
+    background-color: #00a0b6;
+    color: white;
+}
